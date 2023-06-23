@@ -8,9 +8,10 @@ body{
 }
 
 #sub{
-	float:right;
+/* 	float:right; */
 	margin:0px;
 	font-style:italic;
+	text-align:right;
 }
 
 .first-para{
